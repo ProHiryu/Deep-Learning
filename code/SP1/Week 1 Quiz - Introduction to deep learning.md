@@ -6,7 +6,7 @@
     - [ ] Through the “smart grid”, AI is delivering a new wave of electricity.
     - [ ] AI runs on computers and is thus powered by electricity, but it is letting computers do things not possible before.
     - [x] Similar to electricity starting about 100 years ago, AI is transforming multiple industries.
-    
+
     Note: Andrew illustrated the same idea in the lecture.
 
 2. Which of these are reasons for Deep Learning recently taking off? (Check the two options that apply.)
@@ -15,7 +15,7 @@
     - [ ] Neural Networks are a brand new field.
     - [x] We have access to a lot more data.
     - [ ] Deep learning has resulted in significant improvements in important applications such as online advertising, speech recognition, and image recognition.
-    
+
 3. Recall this diagram of iterating over different ML ideas. Which of the statements below are true? (Check all that apply.)
 
     - [x] Being able to try out ideas quickly allows deep learning engineers to iterate more quickly.
@@ -29,30 +29,30 @@
 
     - [ ] True
     - [x] False
-    
+
     Note: Maybe some experience may help, but nobody can always find the best model or hyperparameters without iterations. 
 
 5. Which one of these plots represents a ReLU activation function?
 
     - Check [here](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)).
-    
+
 6. Images for cat recognition is an example of “structured” data, because it is represented as a structured array in a computer. True/False?
-    
+
     - [ ] True
     - [x] False
-    
+
 7. A demographic dataset with statistics on different cities' population, GDP per capita, economic growth is an example of “unstructured” data because it contains data coming from different sources. True/False?
-    
+
     - [ ] True
     - [x] False
-    
+
 8. Why is an RNN (Recurrent Neural Network) used for machine translation, say translating English to French? (Check all that apply.)
 
     - [x] It can be trained as a supervised learning problem.
     - [ ] It is strictly more powerful than a Convolutional Neural Network (CNN).
     - [x] It is applicable when the input/output is a sequence (e.g., a sequence of words).
     - [ ] RNNs represent the recurrent process of Idea->Code->Experiment->Idea->....
-    
+
 9. In this diagram which we hand-drew in lecture, what do the horizontal axis (x-axis) and vertical axis (y-axis) represent?
 
     - x-axis is the amount of data
