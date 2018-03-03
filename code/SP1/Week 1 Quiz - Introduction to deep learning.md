@@ -1,4 +1,4 @@
-## Week 1 Quiz - Introduction to deep learning
+# Week 1 Quiz - Introduction to deep learning
 
 1. What does the analogy “AI is the new electricity” refer to?
 
