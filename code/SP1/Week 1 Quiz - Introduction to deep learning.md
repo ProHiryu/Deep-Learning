@@ -10,7 +10,7 @@
     Note: Andrew illustrated the same idea in the lecture.
 
 2. Which of these are reasons for Deep Learning recently taking off? (Check the two options that apply.)
- 
+
     - [x] We have access to a lot more computational power.
     - [ ] Neural Networks are a brand new field.
     - [x] We have access to a lot more data.
